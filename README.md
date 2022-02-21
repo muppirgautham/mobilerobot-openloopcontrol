@@ -30,11 +30,9 @@ Step4:
 Program the movements of the robot using python code.
 <br/>
 
+
 Step5:
 Execute the python program.
-
-
-
 <br/>
 
 ## Program:
